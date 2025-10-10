@@ -1,3 +1,13 @@
+"""
+ANGELICA ELIZABETH IBARRA DIAZ 
+DIAZARTURO ARJONA HERMOSILLOA 
+CHRISTIAN ALONSO FLORES BURGOS 
+MARCO FABRIZIO AZPEITIA CASTELLANOS 
+
+10 de octubre 2025 
+
+Calcular el cociente y residuo de una división usando sólo sumas y restas 
+"""
 #Entradas
 #Se pide un número dividendo y un número divisor
 dividendo = int(input("Introduzca el dividendo:"))
